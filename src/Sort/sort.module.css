@@ -1,0 +1,26 @@
+.Sort{
+margin-top: 20px;
+    text-align: center;
+}
+
+.Label{
+    display: block;
+    font-size: small;
+}
+
+.BtnBest, .BtnWorst{
+width: 60px;
+border: 1px solid #c43b2a;
+cursor: pointer;
+}
+
+.BtnBest{
+background-color: #e92e2f;
+color: white;
+border-radius: 0 6px 6px 0 ;
+}
+
+.BtnWorst{
+background-color: #faca2e;
+border-radius: 6px 0 0 6px ;
+}
